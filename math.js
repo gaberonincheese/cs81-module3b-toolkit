@@ -4,5 +4,4 @@ function double(x) {
 }
 
 let num = prompt("Enter a number to double:");
-
 double(num);
